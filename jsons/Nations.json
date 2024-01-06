@@ -1,0 +1,19 @@
+[
+        {
+                "name": "Finland",
+                "leaderName": "Kyösti Kallio",
+                "style": "White",
+                "preferredVictoryType": "Cultural",
+                "uniqueName": "Mannerheim",
+                "uniques": ["[Great General] is earned [+50]% faster <when at war>","Great General provides double combat bonus"],
+                "cities": ["Helsinki","Helsinki"],
+        },
+        {
+                "name": "Soviet",
+                "leaderName": "Stalin",
+                "style": "Red",
+                "preferredVictoryType": "Domination",
+                "uniqueName": "Proletarian Revolution",
+                "uniques": ["Starts with [Order] adopted","Starts with [Planned Economy] adopted"],
+        }
+]
