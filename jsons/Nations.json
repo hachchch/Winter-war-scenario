@@ -19,6 +19,6 @@
                 "uniques": ["Starts with [Order] adopted","Starts with [Planned Economy] adopted"],
                 "outerColor": [188, 0, 0],
 			"innerColor": [252, 209, 22],
-                "cities": ["Terijoki","Leningrad","Petrozavodsk"]
+                "cities": [/*"Terijoki",*/"Leningrad","Petrozavodsk"]
         }
 ]
