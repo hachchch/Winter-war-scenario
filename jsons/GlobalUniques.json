@@ -1,6 +1,6 @@
 {
     "name": "Global uniques",
     "uniques": [
-	    "[+1000]% Gold cost of acquiring tiles [in all cities]","[-2000]% Culture cost of natural border growth [in all cities]","Cannot build [Settler] units","Nullifies Growth [in all cities]"
+	    "[+20 Gold] [in all cities]","[+20 Happiness] [in capital]","[+1000]% Gold cost of acquiring tiles [in all cities]","[-2000]% Culture cost of natural border growth [in all cities]","Cannot build [Settler] units","Nullifies Growth [in all cities]"
     ]
 }
