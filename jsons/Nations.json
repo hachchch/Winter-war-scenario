@@ -8,7 +8,7 @@
                 "uniques": ["[Great General] is earned [+50]% faster <when at war>","Great General provides double combat bonus"],
                 "outerColor": [244, 244, 249],
 			"innerColor": [46, 82, 102],
-                "cities": ["Helsinki","Viipuri","Tampere","Vantaa","Oulu","Turku","Jyväskylä","Lahti","Kuopio","Pori","Kouvola","Joensuu","Lappeenranta","Hämeenlinna","Vaasa"]
+                "cities": ["Helsinki","Viipuri","Tampere","Oulu","Turku","Jyväskylä","Lahti","Kuopio","Pori","Kouvola","Joensuu","Lappeenranta","Hämeenlinna","Vaasa"]
         },
         {
                 "name": "Soviet",
