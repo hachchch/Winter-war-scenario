@@ -5,7 +5,7 @@
                 "style": "White",
                 "preferredVictoryType": "Cultural",
                 "uniqueName": "Mannerheim",
-                "uniques": ["[Great General] is earned [+50]% faster <when at war>","Great General provides double combat bonus"],
+                "uniques": ["[Great General] is earned [+50]% faster <when at war>","Great General provides double combat bonus","Starts with [Combustion]","Starts with [Flight]","Provides [2] [Oil]"],
                 "outerColor": [244, 244, 249],
 			"innerColor": [46, 82, 102],
                 "cities": ["Helsinki","Viipuri","Tampere","Oulu","Turku","Jyväskylä","Lahti","Kuopio","Pori","Kouvola","Joensuu","Lappeenranta","Hämeenlinna","Vaasa"]
@@ -16,7 +16,7 @@
                 "style": "Red",
                 "preferredVictoryType": "Domination",
                 "uniqueName": "Proletarian Revolution",
-                "uniques": ["Starts with [Order] adopted","Starts with [Planned Economy] adopted","Starts with [Combined Arms]","Starts with [Flight]","Starts with [Electronics]","Provides [9] [Oil]"],
+                "uniques": ["Starts with [Order] adopted","Starts with [Planned Economy] adopted","Starts with [Combined Arms]","Starts with [Flight]","Starts with [Electronics]","Provides [9] [Oil]","[40] Unit Supply"],
                 "outerColor": [188, 0, 0],
 			"innerColor": [252, 209, 22],
                 "cities": [/*"Terijoki",*/"Leningrad","Petrozavodsk"]
