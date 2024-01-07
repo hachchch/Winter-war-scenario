@@ -16,7 +16,7 @@
                 "style": "Red",
                 "preferredVictoryType": "Domination",
                 "uniqueName": "Proletarian Revolution",
-                "uniques": ["Starts with [Order] adopted","Starts with [Planned Economy] adopted"],
+                "uniques": ["Starts with [Order] adopted","Starts with [Planned Economy] adopted","Starts with [Combined Arms]","Starts with [Flight]","Starts with [Electronics]","Provides [9] [Oil]"],
                 "outerColor": [188, 0, 0],
 			"innerColor": [252, 209, 22],
                 "cities": [/*"Terijoki",*/"Leningrad","Petrozavodsk"]
