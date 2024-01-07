@@ -1,6 +1,6 @@
 {
     "name": "Global uniques",
     "uniques": [
-	    "Nullifies [Science] [in all cities]","Nullifies [Culture] [in all cities]","[+20 Gold, +25 Production] [in all cities]","[+30 Gold, +20 Happiness] [in capital]","[+1000]% Gold cost of acquiring tiles [in all cities]","[+2000]% Culture cost of natural border growth [in all cities]","Cannot build [Settler] units","Nullifies Growth [in all cities]"
+	    "Nullifies [Science] [in all cities]","Nullifies [Culture] [in all cities]","[+20 Gold, +25 Production] [in all cities]","[+30 Gold, +40 Happiness] [in capital]","[+1000]% Gold cost of acquiring tiles [in all cities]","[+2000]% Culture cost of natural border growth [in all cities]","Cannot build [Settler] units","Nullifies Growth [in all cities]"
     ]
 }
